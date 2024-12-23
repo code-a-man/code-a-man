@@ -5,7 +5,7 @@
 * 🌍 I'm based in Türkiye
 * 🖥️ See my portfolio&blog at **[codeaman.dev](https://codeaman.dev)**
 * ✉️ You can contact me at **[info](mailto:info@codeaman.dev)**
-* 🚀 I'm currently working on **University Social Platform**
+* 🚀 I'm currently working on **University Social Platform** project
 * 🧠 I'm learning **Go**
 * 🤝 I'm open to collaborating on interesting projects, translations
 * ⚡ Fun Fact: I use catppuccin mocha theme everywhere possible 🐱☕
